@@ -1,0 +1,5 @@
+# Manim Community Edition (not the older 3Blue1Brown/manimlib package)
+manim==0.22.1
+# Notebook kernel / mathematical exploration
+ipykernel>=6.29,<8
+numpy>=2.0,<3
